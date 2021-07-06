@@ -1,4 +1,4 @@
-# bootcamp using JavaScript
+# Bootcamp using JavaScript
 Created with CodeSandbox
 
 Humans - Dog Age
